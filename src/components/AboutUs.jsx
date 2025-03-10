@@ -10,7 +10,7 @@ const AboutUs = () => {
           <h1 className="text-6xl md:text-8xl font-bold text-gray-300 absolute -top-8 -left-2 md:-top-16 md:-left-4">
             ABOUT US
           </h1>
-          <h2 className="text-3xl font-bold relative z-10">About Us_</h2>
+          <h2 className="text-3xl text-gray-500 font-bold relative z-10">About Us_</h2>
           <p className="mt-4 text-gray-700 leading-relaxed">
             Kosish is a vibrant annual event held at PCTE College, bringing
             together students from various disciplines to showcase their
