@@ -6,6 +6,8 @@ import Gallery from './components/Gallery';
 import AboutUs from "./components/AboutUs";
 import EventsPage from "./components/Events";
 import MainGallery from "./components/MainGallery";
+import Sponsors from "./components/sponsors";
+import Footer from "./components/footer";
 
 const App = () => {
   return (
@@ -16,6 +18,8 @@ const App = () => {
       <AboutUs/>
       <EventsPage/>
       <MainGallery/>
+      <Sponsors/>
+      <Footer/>
     </div>
   );
 };
